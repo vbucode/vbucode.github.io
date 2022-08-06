@@ -1,3 +1,1 @@
-# vbucode.github.io
-
 portfolio
